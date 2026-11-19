@@ -1,1 +1,7 @@
+spring:
+  application:
+    name: transaction-processor
 
+logging:
+  level:
+    root: INFO
